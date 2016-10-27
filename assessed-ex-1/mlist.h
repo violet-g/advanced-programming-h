@@ -5,7 +5,7 @@
 
 typedef struct mlist MList;
 
-extern int ml_verbose;		/* if true, prints diagnostics on stderr */
+extern int ml_verbose;  /* if true, prints diagnostics on stderr */
 
 /* ml_create - created a new mailing list */
 MList *ml_create(void);
@@ -21,4 +21,4 @@ MEntry *ml_lookup(MList *ml, MEntry *me);
 /* ml_destroy - destroy the mailing list */
 void ml_destroy(MList *ml);
 
-#endif /* _MLIST_H_ */
+#endif
