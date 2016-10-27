@@ -9,13 +9,13 @@ Example:
 ```
 Potential duplicate
 ===================
-Meldrew, Margaret
-1 Happenstance Place, Epping, London
-N11 3SR
+Sventek, Joe
+University of Glasgow, Glasgow
+G12 8QQ
 ==========
-Meldrew, Victor
-1 Happenstance Place, London
-N11 3SR
+Sventek, Prof. Joseph
+University of Glasgow, Glasgow
+G12 8QQ
 ```
 
 All entries need to have the same structure:
