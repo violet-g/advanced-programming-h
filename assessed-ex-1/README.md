@@ -33,7 +33,7 @@ Compile with:
 gcc -o prog mentry.c mlist.c finddupl.c
 ```
 
-Execite with:
+Execute with:
 ```
 ./prog < S.txt
 ```
