@@ -1,7 +1,3 @@
-/* Gabriela Georgieva, matricNo: 2130120 */
-/* Advanced Programming H, Exercise 1 */
-/* This is my own work as defined in the Academic Ethics agreement I have signed. */
-
 #include "mentry.h"
 #include <stdlib.h>
 #include <ctype.h>
