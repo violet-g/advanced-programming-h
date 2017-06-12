@@ -1,6 +1,6 @@
 ### DYNAMIC HASH TABLE
 
-This project represents a dynamic hash table implemented in C - coursework for one of my level 3 courses.
+This project represents a dynamic hash table implemented in C.
 
 
 It processes mailing lists, getting them as stdin from the command line and finds potential duplicates.
